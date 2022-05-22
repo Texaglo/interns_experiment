@@ -1,0 +1,38 @@
+{
+  "name": "Tech 3 id 3 #8",
+  "symbol": "DMH 3",
+  "description": "This is the apprenticeship run collection of the intern NFT project",
+  "seller_fee_basis_points": 1000,
+  "image": "8.png",
+  "external_url": "https://www.DMH.Texaglo.com",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "Tech 3",
+      "value": "Tech3"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Bowler_hat_dog_2"
+    },
+    {
+      "trait_type": "Names",
+      "value": "Kung Fu Thunderbolt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7jay9TuwqHh9EJVxjrCotkbuZwBVFZna5UPPzXy1TabR",
+        "share": 100
+      }
+    ]
+  }
+}

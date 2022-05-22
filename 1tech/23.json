@@ -1,0 +1,38 @@
+{
+  "name": "Tech 1 id 11 #23",
+  "symbol": "DMH 1",
+  "description": "This is the apprenticeship run collection of the intern NFT project",
+  "seller_fee_basis_points": 1000,
+  "image": "23.png",
+  "external_url": "https://www.DMH.Texaglo.com",
+  "edition": 23,
+  "attributes": [
+    {
+      "trait_type": "Tech 1",
+      "value": "Tech1"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "German_sherman_7"
+    },
+    {
+      "trait_type": "Names",
+      "value": "Neptune"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "23.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7jay9TuwqHh9EJVxjrCotkbuZwBVFZna5UPPzXy1TabR",
+        "share": 100
+      }
+    ]
+  }
+}

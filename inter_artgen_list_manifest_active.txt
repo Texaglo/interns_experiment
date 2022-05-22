@@ -1,0 +1,73 @@
+-1.Barkley=cuts-IT
+-2.Slasher=cute-IT
+-3.Atticus=unique=IT
+-4.Bobcat=unique=IT
+-7.Dutch=hunting=IT
+-8.Bear=hunting=IT
+-9.Gamma=scientific=IT
+-11.Buzz=country=IT
+-15.Walter=military=IT
+-17.Salacious B. Crumb=nerdy=IT
+-18.Ravenpaw=nerdy=IT
+-20.Salinger=hipster=IT
+(-22.Tesla)
+-23.Parsnip=food=IT
+-24.Bagel=food=IT
+-25.Fletcher=posh=IT
+-26.Ellis=posh=IT
+
+boy name^ x's 16
+------------------
+28.Lola=spanish=IT
+30.Grace=posh=IT
+31.Gumbo=food=IT
+32.Brie=food=IT
+33.Fido=classic=IT
+34.Bandit=classic=IT
+36.Irony=hipster=IT
+39.Dagger=military=IT
+40.Tango=military=IT
+45.Cosima=scientific=IT
+46.Ada=scientific=IT
+47.Dakota=hunting=IT
+48.Artemis=hunting=IT
+49.Gardyloo=funny=IT
+51.Jazz=unique=IT
+52.Evie=unique=IT
+53.Gidget=cute=IT
+54.Maggie=cute=IT
+
+girl name^ x's 18
+---------------------
+INTER=IT
+
+10.Neptune=scientific=T1
+12.Remington=country=T1
+13.Bark Fluffalo=celebrity=T1
+14.Houdini=celebrity=T1
+19.A$AP Barky=hipster=T1
+27.Kin=japanese=T1
+29.Genevieve=posh=T1
+35.Coachella=hipster=T1
+43.Betty Lou=country=T1
+44.Champagne=country=T1
+55.luna=T1 x's 11
+--------------------
+TECH1^
+
+5.Spaniel Day-Lewis=funny=T2
+38.Deohg=T2
+21.Snoopy=classic=T2
+37.Bella Amor = she's a Boston Terrier.=T2
+41.Pawris Hilton=celebrity=T2
+42.Victoria Barkham=celebrity=T2
+------------------
+TECH2^ x's 6
+
+---------------------------
+50.Lady Squirrel Assassin=funny=T3
+6.Kung Fu Thunderbolt=funny=T3/FONTSIZE9
+16.Conan the Barkbarian=T3
+----------------
+TECH3^ x's 3
+ok this is the revised list

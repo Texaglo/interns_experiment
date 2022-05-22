@@ -1,0 +1,38 @@
+{
+  "name": "Tech 0 id #8",
+  "symbol": "DMH 0",
+  "description": "This is the apprenticeship run collection of the intern NFT project",
+  "seller_fee_basis_points": 1000,
+  "image": "8.png",
+  "external_url": "https://www.DMH.Texaglo.com",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "Tech 0",
+      "value": "Tech0"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Masked_dog_6"
+    },
+    {
+      "trait_type": "Names",
+      "value": "Barkley"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7jay9TuwqHh9EJVxjrCotkbuZwBVFZna5UPPzXy1TabR",
+        "share": 100
+      }
+    ]
+  }
+}

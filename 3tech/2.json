@@ -1,0 +1,38 @@
+{
+  "name": "Tech 3 id 3 #2",
+  "symbol": "DMH 3",
+  "description": "This is the apprenticeship run collection of the intern NFT project",
+  "seller_fee_basis_points": 1000,
+  "image": "2.png",
+  "external_url": "https://www.DMH.Texaglo.com",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Tech 3",
+      "value": "Tech3"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Bowler_hat_dog_4"
+    },
+    {
+      "trait_type": "Names",
+      "value": "Lady Squirrel"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7jay9TuwqHh9EJVxjrCotkbuZwBVFZna5UPPzXy1TabR",
+        "share": 100
+      }
+    ]
+  }
+}
